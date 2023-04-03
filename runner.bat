@@ -1,0 +1,1 @@
+cd c:\Users\Trever\PycharmProjects\OTI.Email.Sender & venv\Scripts\activate.bat & python main.py & deactivate
